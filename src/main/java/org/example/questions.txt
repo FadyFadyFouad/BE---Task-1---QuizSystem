@@ -1,0 +1,349 @@
+What is the capital of France?
+1) Berlin
+2) Madrid
+3) Paris
+4) Rome
+3
+
+Which planet is known as the Red Planet?
+1) Venus
+2) Mars
+3) Jupiter
+4) Saturn
+2
+
+What is the largest mammal?
+1) Elephant
+2) Blue Whale
+3) Giraffe
+4) Hippopotamus
+2
+
+What is 7 × 8?
+1) 54
+2) 56
+3) 58
+4) 60
+2
+
+Who wrote "Romeo and Juliet"?
+1) Charles Dickens
+2) William Shakespeare
+3) Mark Twain
+4) Leo Tolstoy
+2
+
+What is the boiling point of water at sea level (°C)?
+1) 90
+2) 95
+3) 100
+4) 105
+3
+
+Which element has the chemical symbol O?
+1) Gold
+2) Oxygen
+3) Silver
+4) Iron
+2
+
+What is the currency of Japan?
+1) Yen
+2) Won
+3) Dollar
+4) Euro
+1
+
+How many continents are there?
+1) five
+2) six
+3) seven
+4) eight
+3
+
+Who painted the Mona Lisa?
+1) Vincent van Gogh
+2) Pablo Picasso
+3) Leonardo da Vinci
+4) Michelangelo
+3
+
+Which gas do plants absorb from the atmosphere?
+1) Oxygen
+2) Carbon dioxide
+3) Nitrogen
+4) Hydrogen
+2
+
+What is the hardest natural substance on Earth?
+1) Gold
+2) Diamond
+3) Iron
+4) Quartz
+2
+
+What is the square root of 81?
+1) 7
+2) 8
+3) 9
+4) 10
+3
+
+What is the main ingredient in bread?
+1) Rice
+2) Wheat
+3) Corn
+4) Oats
+2
+
+Who discovered gravity?
+1) Albert Einstein
+2) Isaac Newton
+3) Galileo Galilei
+4) Nikola Tesla
+2
+
+Which is the smallest prime number?
+1) 1
+2) 2
+3) 3
+4) 5
+2
+
+Which ocean is the largest?
+1) Atlantic
+2) Indian
+3) Arctic
+4) Pacific
+4
+
+What color do you get by mixing red and white?
+1) Pink
+2) Purple
+3) Orange
+4) Brown
+1
+
+What is the chemical formula for water?
+1) H2O
+2) CO2
+3) O2
+4) NaCl
+1
+
+Who is the author of "Harry Potter"?
+1) J.K. Rowling
+2) J.R.R. Tolkien
+3) George R.R. Martin
+4) Suzanne Collins
+1
+
+What is the tallest mountain in the world?
+1) K2
+2) Kangchenjunga
+3) Mount Everest
+4) Lhotse
+3
+
+How many legs does a spider have?
+1) 6
+2) 8
+3) 10
+4) 12
+2
+
+What is the freezing point of water (°C)?
+1) 0
+2) 10
+3) 20
+4) 100
+1
+
+What instrument measures temperature?
+1) Barometer
+2) Thermometer
+3) Hygrometer
+4) Anemometer
+2
+
+Which planet is closest to the sun?
+1) Venus
+2) Mars
+3) Mercury
+4) Earth
+3
+
+Who painted "Starry Night"?
+1) Claude Monet
+2) Vincent van Gogh
+3) Pablo Picasso
+4) Salvador Dalí
+2
+
+What is the largest organ in the human body?
+1) Liver
+2) Brain
+3) Skin
+4) Heart
+3
+
+How many sides does a hexagon have?
+1) 5
+2) 6
+3) 7
+4) 8
+2
+
+What gas do humans breathe in?
+1) Carbon dioxide
+2) Nitrogen
+3) Oxygen
+4) Hydrogen
+3
+
+What is 15% of 200?
+1) 20
+2) 25
+3) 30
+4) 35
+3
+
+What is the chemical symbol for gold?
+1) Ag
+2) Au
+3) Gd
+4) Go
+2
+
+How many players are there in a soccer team on the field?
+1) 9
+2) 10
+3) 11
+4) 12
+3
+
+What is the capital of Australia?
+1) Sydney
+2) Canberra
+3) Melbourne
+4) Brisbane
+2
+
+Which country is famous for the pyramids?
+1) Mexico
+2) Peru
+3) Egypt
+4) India
+3
+
+What is the smallest unit of life?
+1) Atom
+2) Molecule
+3) Cell
+4) Organ
+3
+
+Who invented the telephone?
+1) Thomas Edison
+2) Alexander Graham Bell
+3) Nikola Tesla
+4) Guglielmo Marconi
+2
+
+What is the freezing point of mercury (°C)?
+1) -39
+2) -45
+3) -49
+4) -50
+3
+
+How many bones are there in the adult human body?
+1) 196
+2) 206
+3) 216
+4) 226
+2
+
+What is the currency of the United Kingdom?
+1) Euro
+2) Pound Sterling
+3) Dollar
+4) Franc
+2
+
+Which is the fastest land animal?
+1) Lion
+2) Cheetah
+3) Gazelle
+4) Tiger
+2
+
+What is the chemical formula for table salt?
+1) NaCl
+2) KCl
+3) CaCl2
+4) MgCl2
+1
+
+Who wrote "The Odyssey"?
+1) Homer
+2) Plato
+3) Aristotle
+4) Sophocles
+1
+
+How many degrees are in a right angle?
+1) 45
+2) 90
+3) 120
+4) 180
+2
+
+Which metal is liquid at room temperature?
+1) Mercury
+2) Lead
+3) Zinc
+4) Copper
+1
+
+What does DNA stand for?
+1) Deoxyribonucleic Acid
+2) Deoxyribose Nucleic Acid
+3) Deoxynucleic Acid
+4) Deoxyribonitric Acid
+1
+
+What is the speed of light in vacuum (km/s)?
+1) 300,000
+2) 150,000
+3) 250,000
+4) 350,000
+1
+
+Who was the first person to walk on the moon?
+1) Yuri Gagarin
+2) Buzz Aldrin
+3) Neil Armstrong
+4) Michael Collins
+3
+
+Which language has the most native speakers worldwide?
+1) English
+2) Mandarin Chinese
+3) Spanish
+4) Hindi
+2
+
+What is the capital of Canada?
+1) Toronto
+2) Vancouver
+3) Ottawa
+4) Montreal
+3
+
+What is the main gas in Earth's atmosphere?
+1) Oxygen
+2) Nitrogen
+3) Carbon dioxide
+4) Argon
+2

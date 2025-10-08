@@ -12,13 +12,11 @@ public class QuizApplication {
     Quiz quiz = new Quiz();
     User user = new User();
 
-    // Constructor
     public QuizApplication() {
         initializeQuestions();
         int size = AllQuestions.size();
         List<Integer> addedQuestions = new ArrayList<>();
 
-        // Pick 10 random questions
         Random rand = new Random();
         for (int i = 0; i < 10; i++) {
             int index = rand.nextInt(size);
@@ -30,9 +28,8 @@ public class QuizApplication {
         }
     }
 
-    // Method to initialize the questions from a file
     public void initializeQuestions() {
-        File myObj = new File("C:\\Users\\ffahim\\Downloads\\questions.txt"); // Make sure to provide the correct path
+        File myObj = new File("src/main/java/org/example/questions.txt");
         try (Scanner myReader = new Scanner(myObj)) {
             while (myReader.hasNextLine()) {
                 String question = myReader.nextLine();
@@ -46,11 +43,9 @@ public class QuizApplication {
             }
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred while loading questions.");
-            e.printStackTrace();
         }
     }
 
-    // Method to start the quiz and handle user input
     public void startQuiz() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your name: ");
@@ -77,11 +72,9 @@ public class QuizApplication {
             System.out.println();
         }
 
-        // Displaying score after all questions are answered
         displayScore();
     }
 
-    // Method to display user's score
     public void displayScore() {
         int correctAnswers = 0;
         for (Question question : quiz.Questions) {
@@ -94,7 +87,6 @@ public class QuizApplication {
         System.out.println("Your score: " + correctAnswers + "/" + totalQuestions);
     }
 
-    // Main method to run the quiz
     public static void main(String[] args) {
         QuizApplication app = new QuizApplication();
         app.startQuiz();
